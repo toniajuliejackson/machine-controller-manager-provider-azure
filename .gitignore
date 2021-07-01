@@ -3,7 +3,7 @@
 /.kube-secrets
 /tmp/*
 /dev
-/test
+*/test
 /logs
 
 .vscode
@@ -13,6 +13,7 @@
 *.html
 main
 .cache_ggshield
+*.test
 
 # Output of the go coverage tool
 *coverprofile.out*
